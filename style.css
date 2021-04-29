@@ -61,16 +61,23 @@ header{
 
 .noticias{
   flex-wrap: wrap;
+  margin: 0px 68px;
+}
+
+.carousel-inner{
+  width: 700px !important;
+  height: 450px;
+  border-radius: 10px;
 }
 
 .carousel-img img{
   border-radius: 10px;
-  margin-left: 68px
+  width: 750px;
+  height: 450px;
 }
 
 .cardinho{
   border-radius: 5px;
-  margin-left: 63px;
 }
 
 .cardinho img{
@@ -92,6 +99,7 @@ header{
 
 .card-img-top2{
   width: 100%;
-  height: 50%;
+  height: 200px;
 }
+
 
