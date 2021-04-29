@@ -1,0 +1,97 @@
+body{
+  font-size: 20px;
+  font-family: Arial;
+}
+
+header{
+  background-image: url("./img/imagem-navbar.jpg");
+  padding: 80px;
+  height: 600px;
+}
+
+.form-inline{
+  width: 800px;
+  margin-left: 525px;
+}
+
+.search-img{
+  margin-left: 1280px;
+  width: 40px;
+  height: 40px;
+  margin-bottom: 60px;
+}
+
+.icons-nav{
+  justify-content:center;
+}
+
+.card{
+  margin-top: 200px;
+  margin-right: 100px;
+  display: flex;
+  align-items: center;
+}
+
+.card-add{
+  margin-top: 191px;
+}
+
+.nav-link{
+  font-size: 19px;
+}
+
+.nav-item{
+  margin-left: 60px;
+}
+
+.button-navv{
+  border-radius: 2px;
+  width: 135px;
+  height: 40px;
+  border: solid 1px; 
+  background-color: #f9f9f9;
+  color: #626262;
+  margin-left: 18px;
+}
+
+.button-navv:hover {
+  color: #ffffff;
+  background-color: #626262;
+}
+
+.noticias{
+  flex-wrap: wrap;
+}
+
+.carousel-img img{
+  border-radius: 10px;
+  margin-left: 68px
+}
+
+.cardinho{
+  border-radius: 5px;
+  margin-left: 63px;
+}
+
+.cardinho img{
+  border-radius: 5px;
+}
+
+.card-text{
+  color: rgb(255, 255, 255);
+}
+
+.active{
+  font-family: 'Nunito', sans-serif;
+}
+
+.card-texxt{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+.card-img-top2{
+  width: 100%;
+  height: 50%;
+}
+
